@@ -1,6 +1,5 @@
 package com.zemarques96.workshopmongo.resources;
 
-import java.util.Arrays;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
